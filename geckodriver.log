@@ -34,3 +34,48 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1614634034091	Marionette	INFO	Listening on port 50772
 1614634034382	Marionette	WARN	TLS certificate errors will be ignored for this session
 1614634050105	Marionette	INFO	Stopped listening on port 50772
+1614708512586	geckodriver	INFO	Listening on 127.0.0.1:58782
+1614708515641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eliza\\AppData\\Local\\Temp\\rust_mozprofileJcYIMd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614708517154	Marionette	INFO	Listening on port 58795
+1614708517191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614708614130	Marionette	INFO	Stopped listening on port 58795
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614708616242	geckodriver	INFO	Listening on 127.0.0.1:59045
+1614708619313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eliza\\AppData\\Local\\Temp\\rust_mozprofileKCEFU4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614708620716	Marionette	INFO	Listening on port 59055
+1614708620860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614708637367	Marionette	INFO	Stopped listening on port 59055
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614708638853	geckodriver	INFO	Listening on 127.0.0.1:59173
+1614708641933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eliza\\AppData\\Local\\Temp\\rust_mozprofilelKU1G7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614708643317	Marionette	INFO	Listening on port 59183
+1614708643472	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614708663118	Marionette	INFO	Stopped listening on port 59183
+1614708665871	geckodriver	INFO	Listening on 127.0.0.1:59281
+1614708668965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eliza\\AppData\\Local\\Temp\\rust_mozprofileRPjEuq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614708670329	Marionette	INFO	Listening on port 59294
+1614708670503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614708739555	Marionette	INFO	Stopped listening on port 59294
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614708741217	geckodriver	INFO	Listening on 127.0.0.1:59461
+1614708744281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eliza\\AppData\\Local\\Temp\\rust_mozprofilegRoW1r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614708745674	Marionette	INFO	Listening on port 59473
+1614708745827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614708769547	Marionette	INFO	Stopped listening on port 59473
+1614708772128	geckodriver	INFO	Listening on 127.0.0.1:59577
+1614708775225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eliza\\AppData\\Local\\Temp\\rust_mozprofileRQJpPm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614708776782	Marionette	INFO	Listening on port 59587
+1614708777281	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614708917895	Marionette	INFO	Stopped listening on port 59587
